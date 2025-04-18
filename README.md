@@ -1,4 +1,4 @@
-## Projeto desenvolvido no Curso de Logica de Programação para Analistas de Testes
+## Projeto desenvolvido no Curso de Lógica de Programação para Analistas de Testes
 
 Projeto desenvolvido durante a aula para demonstrar conceitos de lógica e testes unitários
 
