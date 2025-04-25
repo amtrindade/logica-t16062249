@@ -1,15 +1,32 @@
-.settings/
-/target
-.project
+# Maven specific files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Eclipse specific files
 .classpath
-.gradle
-build/
-bin/
-out/
-.class
-.iml
-.ipr
-.iws
+.project
+.settings/
+
+# IntelliJ IDEA specific files
 .idea/
 *.iml
-test-output/
+*.iws
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
